@@ -19,11 +19,11 @@ are uncommented. Then run ```sudo apt update``` and ```sudo apt-get build-dep em
 Now, download Emacs from [here](https://www.gnu.org/software/emacs/download.html) and unpack it.
 
 Inside the directory, do the usual dance:
-```
+{% highlight shell %}
 ./configure
 make
 sudo make install
-```
+{% endhighlight %}
 
 That should do it.
 
