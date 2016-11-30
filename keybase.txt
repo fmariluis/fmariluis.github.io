@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/fmariluis
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://fmariluis.github.io
+  * I am fmariluis (https://keybase.io/fmariluis) on keybase.
+  * I have a public key with fingerprint 4420 3D17 4D84 25B9 6189  AD53 7191 C5B4 58E4 4A60
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01012452855ae5b92872b56e85ca4c235b1add8b4e3f6c625329b45375552945f22f0a",
+            "fingerprint": "44203d174d8425b96189ad537191c5b458e44a60",
+            "host": "keybase.io",
+            "key_id": "7191c5b458e44a60",
+            "kid": "01012452855ae5b92872b56e85ca4c235b1add8b4e3f6c625329b45375552945f22f0a",
+            "uid": "af955605af208edeb1147a5c32c95c00",
+            "username": "fmariluis"
+        },
+        "revoke": {
+            "sig_ids": [
+                "b5615dccbbd82c6e9ae323532075e35adfe9284d93d36dacf20b27b1f1aae3370f"
+            ]
+        },
+        "service": {
+            "hostname": "fmariluis.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1480273223,
+    "expire_in": 157680000,
+    "prev": "6c5e82b525a3e98ba0bda32e09bd49277d3186bdc1b538cdd08313026a5648f5",
+    "seqno": 18,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.58
+Comment: https://keybase.io/crypto
+
+yMJuAnicrZJtaFVlAMfvfGltYPohJEIKHjSSrtvzes5zbsrQiKYs3yjSqVyft7Od
+bZ5zd865yzWWgULklygIV4EpldgbXAK1VCJ12MjYnLpS22SUwZgW9UGj1Ow5y76E
+HztfDufw///+//M/T/+s6bnaqvTce8+8ti3uqDp17GY5t+7xRU/1ABnpblDoAe1m
+6mY6tEnSYnugQQFABBGmDHPGhGHSw9zFkjmGMyWowoRJJLTmkhriO8rBjGBPUkZc
+xhj2KPMx9qEAeeAHYYuJS3EQphZLKYZEI5dqTrHFOoh7Qlsb8pBiFsANpcKB1tga
+JZnDlpMiMXVBZN/Zh+JUvbvo/+fe5Smc8D3GHMiEjyE32kiEqCuYIlh5TMEst5yY
+OBRbjFX7W0QcdJSDBPTmQWy6onaTDZsELbZ1AgobgK2CmFZKSs2xcownDLGlCIYu
+M4QJ7RtbmWqPaOJooWysxK5EPhJWSVzog02WbSO7AjUFz2b6b3xdS5C2luU/m5Xi
+KI1U1GEFrWlaSgpZubS7lDmeN7J4h1WUQajtv7KOLhMnQRSCArJKlQYZHFEOsUsw
+JnlgtpaC2BSDTMFch0N7ZTmmyyIdxQy3k2MmiPG4FFBqQbCBntTUw66rCeKO1ApJ
+RrjSGnKCCMSOYA7lPgPZ13WGkWVz21O0WKYdMBRpOTag9/iXG2fkqmpz98yclh3i
+XG3NnH+P9hvvVt9u2nz9qxXN8YGBKyc+qXQ2LKxvy0/Ou/+D6y/+frivshhNXLi2
+7dGhi/sH/WOvf78TPDg28mb3z2sGlyz6tnP5ut9+PP/K7t7k65OHdq06Fawdn/nk
+jtVvjQ80wZdX7pp7qf6bZ93dBz+rTOZmLQ8bHxg7PfjciSOjc/+4NXDvx+XKnugv
+PnLwUn9N39AjTzSONi8QbaNnR4Y+5/uW0s3nL7+9oGmifVo071rN+61Hr+y8zE9/
+GixOdlz9Dmxv/GXOquELzZUVs/d+8fDVlU+vHdN9N1/d17YVzz+0fclDE4/19Ncd
+XZifrF+/hjX8iYd/XTY+WL1JvNDTeN/FoeozP4VRw0e9Nz5cPfESeeeH4b8BcuRl
+rg==
+=5sHh
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/fmariluis
+
+==================================================================
