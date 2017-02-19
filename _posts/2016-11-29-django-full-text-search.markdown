@@ -24,7 +24,7 @@ And we want to search by first_name, last_name or address.
 
 First, make sure that ```django.contrib.postgres``` is in ```INSTALLED_APPS```.
 
-Next, we need a simple form:
+Next, we need a simple form to submit the search terms:
 
 {% highlight html %}
 {% raw %}
