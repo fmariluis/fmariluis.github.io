@@ -1,19 +1,18 @@
 ---
-layout: post
+layout: page
 title:  "Software I use"
-date:   2017-03-09 23:34:58 -0300
-categories: software
+permalink: /software/
 ---
 This is the software I use regularly.
 
 ### Operating Systems
-  * Ubuntu 16.04
+  * Ubuntu 16.04 LTS.
   * FreeBSD
 
 ### Desktop software
   * Google Chrome: main browser, just works.
   * Emacs: for everything text related. I use [Spacemacs](http://spacemacs.org/), mainly because I speak vim.
-  * Libreoffice
+  * Libreoffice Calc: I don't love it, but it works.
   * VirtualBox
   * Telegram Desktop
   * Transmission (Bittorrent client)
