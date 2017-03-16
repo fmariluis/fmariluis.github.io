@@ -7,7 +7,7 @@ This is the software I use regularly.
 
 ### Operating Systems
   * Ubuntu 16.04 LTS.
-  * FreeBSD
+  * FreeBSD 10
 
 ### Desktop software
   * Google Chrome: main browser, just works.
@@ -21,6 +21,7 @@ This is the software I use regularly.
   * Spotify for Linux
   * The GIMP
   * Calibre (ebook management)
+  * [Zeal](https://zealdocs.org/): an offline documentation browser
 
 ### Utils
   * di: provides disk usage information, like ```df -h```
@@ -33,6 +34,7 @@ This is the software I use regularly.
   * tmux: a terminal multiplexer
   * tmuxp: a manager for tmux sessions
   * sshfs: a filesystem based on ssh
+  * [jpegoptim](https://github.com/tjko/jpegoptim): a jpeg optimizer
   * fish shell: also, zsh
   * the silver searcher: a really useful grep replacement. In Ubuntu, the package is ```silversearcher-ag```
   * stow: for dotfiles management. As shown [here](http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html).
@@ -41,21 +43,22 @@ This is the software I use regularly.
   * nmap: network exploration tool
   * curl 
   * whois
-  * httpie: a kinder curl. [Link](https://httpie.org/).
+  * [httpie](https://httpie.org/): a kinder curl
 
 ### Development / Devops
   * Python 3
   * Java 8
   * Clojure / Leiningen
+  * Go
   * Node.js / npm
   * git
   * docker
   * docker-compose
   * Ansible
-  * devd: a local webserver. [Link](https://github.com/cortesi/devd).
+  * [devd](https://github.com/cortesi/devd): a local webserver for developers
 
 ### Backup / Security
   * borgbackup
   * openvpn
   * gnupg
-  * pass: the unix password manager
+  * [pass](https://www.passwordstore.org/): the standard unix password manager
