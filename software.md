@@ -61,4 +61,5 @@ This is the software I use regularly.
   * borgbackup
   * openvpn
   * gnupg
+  * [Keybase](https://keybase.io)
   * [pass](https://www.passwordstore.org/): the standard unix password manager
