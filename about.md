@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm fmariluis, a software developer and political science student from Buenos Aires.
+I'm fmariluis, a software developer and political scientist from Buenos Aires.
 
 This blog is made with [Jekyll](https://jekyllrb.com/) and hosted in [ GitHub Pages ](https://pages.github.com/). The font I use is [Libre Baskerville](https://fonts.google.com/specimen/Libre+Baskerville) from Google Fonts.
 

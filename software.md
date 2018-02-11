@@ -3,45 +3,49 @@ layout: page
 title:  "Software I use"
 permalink: /software/
 ---
-This is the software I use regularly.
+This is the software I use regularly. I try new software all the time, but these are the daily drivers.
+
+### Hardware
+  * iPhone, iPad, etc: thing just works
+  * MacBook Pro: idem. Lovely computer.
+  * Dell XPS 13: work issued, it's ok I guess.
 
 ### Operating Systems
-  * Ubuntu 16.04 LTS.
-  * FreeBSD 10
+  * Ubuntu 16.04 LTS (server) and 17.10 (desktop)
+  * Mac OS X
 
 ### Desktop software
-  * Google Chrome: main browser, just works.
-  * Emacs: for everything text related. I use [Spacemacs](http://spacemacs.org/), mainly because I speak vim.
+  * Firefox: love the container tabs feature.
+  * Google Chrome: just for web development.
+  * Emacs: for everything text related. I use [Spacemacs](http://spacemacs.org/), mainly because I also love vim.
   * Libreoffice Calc: I don't love it, but it works.
   * VirtualBox
   * Telegram Desktop
-  * Transmission (Bittorrent client)
-  * Hexchat (IRC client)
+  * Transmission (Bittorrent client) and Deluge
   * VLC video player
   * Spotify for Linux
   * The GIMP
   * Calibre (ebook management)
   * [Zeal](https://zealdocs.org/): an offline documentation browser
 
+#### Mac OS and iOS specific
+  * Safari: Works great
+  * Bear: Beautiful note taking app
+  * Blink: mosh terminal for iOS
+
 ### Utils
   * di: provides disk usage information, like ```df -h```
   * ncdu: detailed disk usage information, a curses interface for ```du```
-  * ranger: vim-like file commander
   * htop: a better ```top```
-  * tig: a text interface for git
-  * wipe: secure file deletion
   * vim: *the* text editor. I use [Neovim](https://neovim.io/).
   * tmux: a terminal multiplexer
   * tmuxp: a manager for tmux sessions
-  * sshfs: a filesystem based on ssh
   * [jpegoptim](https://github.com/tjko/jpegoptim): a jpeg optimizer
-  * fish shell: also, zsh
-  * the silver searcher: a really useful grep replacement. In Ubuntu, the package is ```silversearcher-ag```
   * stow: for dotfiles management. As shown [here](http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html).
 
 ### Network related utilities
   * nmap: network exploration tool
-  * curl 
+  * curl
   * whois
   * [httpie](https://httpie.org/): a kinder curl
 
