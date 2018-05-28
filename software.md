@@ -11,7 +11,7 @@ This is the software I use regularly. I try new software all the time, but these
   * Dell XPS 13: work issued, it's ok I guess.
 
 ### Operating Systems
-  * Ubuntu 16.04 LTS (server) and 17.10 (desktop)
+  * Ubuntu 16.04 LTS (server) and 18.04 (desktop)
   * Mac OS X
 
 ### Desktop software
@@ -53,7 +53,6 @@ This is the software I use regularly. I try new software all the time, but these
   * Python 3
   * Java 8
   * Clojure / Leiningen
-  * Go
   * Node.js / npm
   * git
   * docker
