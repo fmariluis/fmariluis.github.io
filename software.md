@@ -40,6 +40,7 @@ This is the software I use regularly. I try new software all the time, but these
   * vim: *the* text editor. I use [Neovim](https://neovim.io/).
   * tmux: a terminal multiplexer
   * tmuxp: a manager for tmux sessions
+  * [git-diff-image](https://github.com/ewanmellor/git-diff-image): an extension to 'git diff' that provides support for diffing images
   * [jpegoptim](https://github.com/tjko/jpegoptim): a jpeg optimizer
   * stow: for dotfiles management. As shown [here](http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html).
 
